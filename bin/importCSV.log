@@ -1,0 +1,2710 @@
+
+ ################################ Lecture du CSV
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] Non trouvé : on cree le projet 
+Non trouvé : on cree la SwimLine 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:776] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:777] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:778] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:779] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:780] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:781] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:782] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.2.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:783] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.2.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:784] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:785] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:786] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:787] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:788] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:789] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:790] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:791] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:792] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.4.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:793] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.4.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:794] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.4.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:795] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.4.3 ]
+Exist PRJ : 38 => projet  
+Non trouvé : on cree la SwimLine 
+[38], [69], [], [Tache 1.4] : createTask ... 
+Task [ID:796] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 1.4.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:797] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 2.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:798] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 2.1.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:799] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 2.1.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:800] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 2.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:801] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:802] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:803] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.2.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:804] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.2.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:805] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:806] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:807] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:808] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:809] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:810] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:811] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:812] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:813] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:814] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:815] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:816] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.3 ]
+Exist PRJ : 38 => projet  
+Non trouvé : on cree la SwimLine 
+[38], [70], [], [Tache 2.4] : createTask ... 
+Task [ID:817] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 2.4.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:818] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 3.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:819] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 3.1.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:820] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 3.1.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:821] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 3.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:822] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:823] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:824] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.2 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:825] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:826] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:827] created. IDP:38, IDSL:70, IDC: 
+
+PROJETS : [38] projet
+	SWIMLINE : [67] Default swimlane
+	SWIMLINE : [68] swimline 1
+stdClass Object
+(
+    [id] => 776
+    [title] => Tache 1.1
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 1
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/776
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [776] (undefined!) : Tache 1.1
+stdClass Object
+(
+    [id] => 777
+    [title] => Tache 1.1
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 2
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/777
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [777] (undefined!) : Tache 1.1
+stdClass Object
+(
+    [id] => 778
+    [title] => Tache 1.1
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 3
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/778
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [778] (undefined!) : Tache 1.1
+stdClass Object
+(
+    [id] => 779
+    [title] => Tache 1.1
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 4
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/779
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [779] (undefined!) : Tache 1.1
+stdClass Object
+(
+    [id] => 780
+    [title] => Tache 1.1
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 5
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/780
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [780] (undefined!) : Tache 1.1
+stdClass Object
+(
+    [id] => 781
+    [title] => Tache 1.2
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 6
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/781
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [781] (undefined!) : Tache 1.2
+stdClass Object
+(
+    [id] => 782
+    [title] => Tache 1.2
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 7
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/782
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [782] (undefined!) : Tache 1.2
+stdClass Object
+(
+    [id] => 783
+    [title] => Tache 1.2
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 8
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/783
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [783] (undefined!) : Tache 1.2
+stdClass Object
+(
+    [id] => 784
+    [title] => Tache 1.2
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 9
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/784
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [784] (undefined!) : Tache 1.2
+stdClass Object
+(
+    [id] => 785
+    [title] => Tache 1.2
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 10
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/785
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [785] (undefined!) : Tache 1.2
+stdClass Object
+(
+    [id] => 786
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 11
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/786
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [786] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 787
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 12
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/787
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [787] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 788
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 13
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/788
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [788] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 789
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 14
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/789
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [789] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 790
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 15
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/790
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [790] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 791
+    [title] => tache 1.3
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 16
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/791
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [791] (undefined!) : tache 1.3
+stdClass Object
+(
+    [id] => 792
+    [title] => Tache 1.4
+    [description] => 
+    [date_creation] => 1616313799
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 17
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313799
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313799
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/792
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [792] (undefined!) : Tache 1.4
+stdClass Object
+(
+    [id] => 793
+    [title] => Tache 1.4
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 18
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/793
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [793] (undefined!) : Tache 1.4
+stdClass Object
+(
+    [id] => 794
+    [title] => Tache 1.4
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 19
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/794
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [794] (undefined!) : Tache 1.4
+stdClass Object
+(
+    [id] => 795
+    [title] => Tache 1.4
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 20
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 68
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/795
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [795] (undefined!) : Tache 1.4
+	SWIMLINE : [69] swimline2
+stdClass Object
+(
+    [id] => 796
+    [title] => Tache 1.4
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 1
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/796
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [796] (undefined!) : Tache 1.4
+stdClass Object
+(
+    [id] => 797
+    [title] => Tache 2.1
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 2
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/797
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [797] (undefined!) : Tache 2.1
+stdClass Object
+(
+    [id] => 798
+    [title] => Tache 2.1
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 3
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/798
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [798] (undefined!) : Tache 2.1
+stdClass Object
+(
+    [id] => 799
+    [title] => Tache 2.1
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 4
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/799
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [799] (undefined!) : Tache 2.1
+stdClass Object
+(
+    [id] => 800
+    [title] => Tache 2.1
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 5
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/800
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [800] (undefined!) : Tache 2.1
+stdClass Object
+(
+    [id] => 801
+    [title] => Tache 2.1
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 6
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/801
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [801] (undefined!) : Tache 2.1
+stdClass Object
+(
+    [id] => 802
+    [title] => Tache 2.2
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 7
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/802
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [802] (undefined!) : Tache 2.2
+stdClass Object
+(
+    [id] => 803
+    [title] => Tache 2.2
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 8
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/803
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [803] (undefined!) : Tache 2.2
+stdClass Object
+(
+    [id] => 804
+    [title] => Tache 2.2
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 9
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/804
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [804] (undefined!) : Tache 2.2
+stdClass Object
+(
+    [id] => 805
+    [title] => Tache 2.2
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 10
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/805
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [805] (undefined!) : Tache 2.2
+stdClass Object
+(
+    [id] => 806
+    [title] => Tache 2.2
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 11
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/806
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [806] (undefined!) : Tache 2.2
+stdClass Object
+(
+    [id] => 807
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 12
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/807
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [807] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 808
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 13
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/808
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [808] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 809
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 14
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/809
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [809] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 810
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313800
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 15
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313800
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313800
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/810
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [810] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 811
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 16
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/811
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [811] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 812
+    [title] => tache 2.3
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 17
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/812
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [812] (undefined!) : tache 2.3
+stdClass Object
+(
+    [id] => 813
+    [title] => Tache 2.4
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 18
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/813
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [813] (undefined!) : Tache 2.4
+stdClass Object
+(
+    [id] => 814
+    [title] => Tache 2.4
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 19
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/814
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [814] (undefined!) : Tache 2.4
+stdClass Object
+(
+    [id] => 815
+    [title] => Tache 2.4
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 20
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/815
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [815] (undefined!) : Tache 2.4
+stdClass Object
+(
+    [id] => 816
+    [title] => Tache 2.4
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 21
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 69
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/816
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [816] (undefined!) : Tache 2.4
+	SWIMLINE : [70] swimline3
+stdClass Object
+(
+    [id] => 817
+    [title] => Tache 2.4
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 1
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/817
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [817] (undefined!) : Tache 2.4
+stdClass Object
+(
+    [id] => 818
+    [title] => Tache 3.1
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 2
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/818
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [818] (undefined!) : Tache 3.1
+stdClass Object
+(
+    [id] => 819
+    [title] => Tache 3.1
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 3
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/819
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [819] (undefined!) : Tache 3.1
+stdClass Object
+(
+    [id] => 820
+    [title] => Tache 3.1
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 4
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/820
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [820] (undefined!) : Tache 3.1
+stdClass Object
+(
+    [id] => 821
+    [title] => Tache 3.1
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 5
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/821
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [821] (undefined!) : Tache 3.1
+stdClass Object
+(
+    [id] => 822
+    [title] => Tache 3.1
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 6
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/822
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [822] (undefined!) : Tache 3.1
+stdClass Object
+(
+    [id] => 823
+    [title] => Tache 3.2
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 7
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/823
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [823] (undefined!) : Tache 3.2
+stdClass Object
+(
+    [id] => 824
+    [title] => Tache 3.2
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 8
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/824
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [824] (undefined!) : Tache 3.2
+stdClass Object
+(
+    [id] => 825
+    [title] => Tache 3.2
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 9
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/825
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [825] (undefined!) : Tache 3.2
+stdClass Object
+(
+    [id] => 826
+    [title] => Tache 3.2
+    [description] => 
+    [date_creation] => 1616313801
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 10
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313801
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313801
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/826
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [826] (undefined!) : Tache 3.2
+stdClass Object
+(
+    [id] => 827
+    [title] => Tache 3.2
+    [description] => 
+    [date_creation] => 1616313802
+    [date_completed] => 
+    [date_due] => 0
+    [color_id] => yellow
+    [project_id] => 38
+    [column_id] => 223
+    [owner_id] => 0
+    [position] => 11
+    [score] => 0
+    [is_active] => 1
+    [category_id] => 0
+    [creator_id] => 0
+    [date_modification] => 1616313802
+    [reference] => 
+    [date_started] => 0
+    [time_spent] => 0
+    [time_estimated] => 0
+    [swimlane_id] => 70
+    [date_moved] => 1616313802
+    [recurrence_status] => 0
+    [recurrence_trigger] => 0
+    [recurrence_factor] => 0
+    [recurrence_timeframe] => 0
+    [recurrence_basedate] => 0
+    [recurrence_parent] => 
+    [recurrence_child] => 
+    [priority] => 0
+    [external_provider] => 
+    [external_uri] => 
+    [owner_gp] => 0
+    [owner_ms] => 0
+    [url] => https://kb_demo.lamp2020.local/kb_XP5/project/38/task/827
+    [color] => stdClass Object
+        (
+            [name] => Yellow
+            [background] => rgb(245, 247, 196)
+            [border] => rgb(223, 227, 45)
+        )
+
+)
+		TASK : [827] (undefined!) : Tache 3.2

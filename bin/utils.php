@@ -8,7 +8,8 @@ defined('TAB') or define('TAB', "\t");
 defined('KB_ADMIN_ID') or define('KB_ADMIN_ID', "1");
 
 
-function askKB($data){
+function askKB($data, $debugMe = FALSE){
+    
     $curl = curl_init();
     curl_setopt($curl, CURLOPT_URL,KB_URL);
     curl_setopt($curl, CURLOPT_POST, 1);
@@ -23,12 +24,22 @@ function askKB($data){
 	
 
  	$result = curl_exec ($curl);
-    // echo curl_error($curl);
+	 if ($debugMe){
+	    echo "\n ---------------------- data :\n";
+	    var_dump($data);
+	    echo "\n ---------------------- curl_error :\n";
+		echo curl_error($curl);
+	 }
+    
     curl_close ($curl);
 	
 	
 	$pretty = json_decode($result);
-	
+	if ($debugMe){
+	  echo "\n ---------------------- result :\n";
+      var_dump($pretty);
+	  echo "\n ----------------------\n";
+	}
 	return $pretty;
 }
 
@@ -112,7 +123,7 @@ function getOneTask($TKId){
 }
 
 function createTask($project_id, $id_SL, $column_id, $tsk_title){
-	echo "createTask ... ".N;
+	echo "[$project_id], [$id_SL], [$column_id], [$tsk_title] : createTask ... ".N;
 	$params2 = array(
 		'title'=> "$tsk_title",
 		'project_id'=> "$project_id",
@@ -374,9 +385,10 @@ function getTaskBySwimLines($project_id){
 }
 
 function importFileToKBTask($fileName){
+	echo "\n ################################ Lecture du CSV";
 	$lines = file($fileName);
 
-	$defaultColumn_id = "1";
+	$defaultColumn_id = "";
 	
 	$project_title = "";
 	$swimline_title = "";
@@ -413,15 +425,14 @@ function importFileToKBTask($fileName){
         if ($swimline_title === ""){continue;}
         if ($task_title === ""){continue;}
 
+		echo "\n ##### [project_title = $project_title ] ";
+		echo "[swimline_title = $swimline_title ] ";
+		echo "[task_title = $task_title ] ";
+
 		if ($subtask_title !== "") {
-			echo "\n ##### [project_title = $project_title ] ";
-			echo "[swimline_title = $swimline_title ] ";
-			echo "[task_title = $task_title ] ";
 			echo "[subtask_title = $subtask_title ]".N;
+			$idTask = addTaskFromFile($project_title, $swimline_title, $defaultColumn_id, $task_title );
 		}else {
-			echo "\n ### [project_title = $project_title ] ";
-			echo "[swimline_title = $swimline_title ] ";
-			echo "[task_title = $task_title ] ".N;
 			$idTask = addTaskFromFile($project_title, $swimline_title, $defaultColumn_id, $task_title );
 		}
 		
