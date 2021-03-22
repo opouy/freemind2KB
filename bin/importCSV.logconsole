@@ -1,0 +1,177 @@
+
+ ################################ Lecture du CSV
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] Non trouvé : on cree le projet 
+Non trouvé : on cree la SwimLine 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:776] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:777] created. IDP:38, IDSL:68, IDC: 
+
+(.../...)
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.1 ] [subtask_title = sous-tache 1.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.1] : createTask ... 
+Task [ID:780] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:781] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.2 ] [subtask_title = sous-tache 1.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.2] : createTask ... 
+Task [ID:782] created. IDP:38, IDSL:68, IDC: 
+
+
+(.../...)
+
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = tache 1.3 ] [subtask_title = sous-tache 1.3.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [tache 1.3] : createTask ... 
+Task [ID:787] created. IDP:38, IDSL:68, IDC: 
+
+
+(.../...)
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:792] created. IDP:38, IDSL:68, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline 1 ] [task_title = Tache 1.4 ] [subtask_title = sous-tache 1.4.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 68 => swimline 1 
+[38], [68], [], [Tache 1.4] : createTask ... 
+Task [ID:793] created. IDP:38, IDSL:68, IDC: 
+
+
+(.../...)
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 1.4.3 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:797] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.1 ] [subtask_title = sous-tache 2.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.1] : createTask ... 
+Task [ID:798] created. IDP:38, IDSL:69, IDC: 
+
+
+(.../...)
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:802] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.2 ] [subtask_title = sous-tache 2.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.2] : createTask ... 
+Task [ID:803] created. IDP:38, IDSL:69, IDC: 
+
+
+(.../...)
+
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:807] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = tache 2.3 ] [subtask_title = sous-tache 2.3.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [tache 2.3] : createTask ... 
+Task [ID:808] created. IDP:38, IDSL:69, IDC: 
+
+
+(.../...)
+
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.3.5 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:813] created. IDP:38, IDSL:69, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline2 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 69 => swimline2 
+[38], [69], [], [Tache 2.4] : createTask ... 
+Task [ID:814] created. IDP:38, IDSL:69, IDC: 
+
+
+(.../...)
+
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 2.4 ] [subtask_title = sous-tache 2.4.3 ]
+Exist PRJ : 38 => projet  
+Non trouvé : on cree la SwimLine 
+[38], [70], [], [Tache 2.4] : createTask ... 
+Task [ID:817] created. IDP:38, IDSL:70, IDC: 
+
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.1 ] [subtask_title = sous-tache 3.1.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.1] : createTask ... 
+Task [ID:819] created. IDP:38, IDSL:70, IDC: 
+
+
+(.../...)
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.1.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:823] created. IDP:38, IDSL:70, IDC: 
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.1 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:824] created. IDP:38, IDSL:70, IDC: 
+
+
+(.../...)
+
+
+ ##### [project_title = projet ] [swimline_title = swimline3 ] [task_title = Tache 3.2 ] [subtask_title = sous-tache 3.2.4 ]
+Exist PRJ : 38 => projet  
+Exist SL : 70 => swimline3 
+[38], [70], [], [Tache 3.2] : createTask ... 
+Task [ID:827] created. IDP:38, IDSL:70, IDC: 
+
+PROJETS : [38] projet
+	SWIMLINE : [67] Default swimlane
+	SWIMLINE : [68] swimline 1
+		TASK : [776] (undefined!) : Tache 1.1
+		TASK : [781] (undefined!) : Tache 1.2
+		TASK : [786] (undefined!) : tache 1.3
+		TASK : [792] (undefined!) : Tache 1.4
+	SWIMLINE : [69] swimline2
+		TASK : [797] (undefined!) : Tache 2.1
+		TASK : [802] (undefined!) : Tache 2.2
+		TASK : [807] (undefined!) : tache 2.3
+		TASK : [813] (undefined!) : Tache 2.4
+	SWIMLINE : [70] swimline3
+		TASK : [818] (undefined!) : Tache 3.1
+		TASK : [823] (undefined!) : Tache 3.2
