@@ -123,6 +123,26 @@ function getOneTask($TKId){
 }
 
 function createTask($project_id, $id_SL, $column_id, $tsk_title){
+	$tasksArray = getAllTasks($project_id);
+	foreach($tasksArray as $taskTabVals){
+		if (is_array($taskTabVals) || is_object($taskTabVals)){
+			foreach($taskTabVals as $taskObject){
+				//print_r($val);
+				$id = $taskObject->id;
+				$name = $taskObject->title;
+				//$identifier = $taskObject->identifier;
+				if ($tsk_title == $name) {
+					echo "Exist Task : $id => $name  ".N;
+                   return $id;
+				}
+				
+				
+			}
+		}
+		
+	}
+
+
 	echo "[$project_id], [$id_SL], [$column_id], [$tsk_title] : createTask ... ".N;
 	$params2 = array(
 		'title'=> "$tsk_title",
@@ -247,12 +267,46 @@ function createIfNotExist_swimLine($projectId, $SLineName){
 	return $returnInfos->result;
 
 }
+function createIfNotExist_subTask($MotherTaskId, $subTaskTitle){
+/*
+
+{
+    "jsonrpc": "2.0",
+    "method": "createSubtask",
+    "id": 2041554661,
+    "params": {
+        "task_id": 1,
+        "title": "Subtask #1"
+    }
+}
+*/
+
+echo "[$MotherTaskId] => [$subTaskTitle] : createSubTask ... ".N;
+	$params2 = array(
+		'task_id'=> "$MotherTaskId",
+		'title'=> "$subTaskTitle",
+		
+	);
+	$data2 = array(
+		'jsonrpc'=>'2.0',
+		'method'=>'createSubtask',
+		'id'=>1,
+		'params'=> $params2
+	);
+
+
+	$returnInfos = askKB($data2);
+	//print_r($returnInfos) ;
+	return $returnInfos->result;
+
+}
 
 function addTaskFromFile($projectName, $SLName, $column_id,$tsk_title ){
 	$idProject = createIfNotExist_project($projectName);
 	$idSL = createIfNotExist_swimLine($idProject, $SLName);
 	$idTask = createTask($idProject, $idSL, $column_id, $tsk_title);
 	echo "Task [ID:$idTask] created. IDP:$idProject, IDSL:$idSL, IDC:$column_id ".N;
+	return $idTask;
 }
 
 
@@ -295,7 +349,7 @@ function getTaskLogins($loginsById, $infoTask){
 
 
 function getKBStructure(){
-    // c'est pas optimal ... mais ca marche ...
+    // Structure du contenu de Kanboard
     $objReturn = getAllProjects();
 	$loginsById = getAllLogins();
 	
@@ -318,7 +372,7 @@ function getKBStructure(){
                     $tkid = $infoTask->id;
 					$tkname = $infoTask->title;
 					$loginOwner = getTaskLogins($loginsById, $infoTask);
-                    echo TAB.TAB."TASK : [$tkid] $loginOwner : $tkname".N;
+                    echo TAB.TAB."TASK : [$tkid] [loginOwner : $loginOwner => $tkname]".N;
 
                 }
             }
@@ -327,7 +381,7 @@ function getKBStructure(){
 }
 
 function getTaskForUsersByColumns(){
-    // c'est pas optimal ... mais ca marche ...
+    // Affiche la liste des tache d'un USER
     $objReturn = getAllProjects();
 	$loginsById = getAllLogins();
 	$recapTotal = array();
@@ -432,6 +486,8 @@ function importFileToKBTask($fileName){
 		if ($subtask_title !== "") {
 			echo "[subtask_title = $subtask_title ]".N;
 			$idTask = addTaskFromFile($project_title, $swimline_title, $defaultColumn_id, $task_title );
+			$idSubTask = createIfNotExist_subTask($idTask, $subtask_title);
+			$subtask_title="";
 		}else {
 			$idTask = addTaskFromFile($project_title, $swimline_title, $defaultColumn_id, $task_title );
 		}
