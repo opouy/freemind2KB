@@ -6,7 +6,7 @@ defined('KB_TOKEN') or define('KB_TOKEN', "15fad02248d82456d5abb47f11036910d64cc
 
 
 importFileToKBTask('../data/sampleProject_export.csv');
-//getKBStructure();
+getKBStructure();
 
 
 ?>
